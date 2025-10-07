@@ -11,4 +11,4 @@ Ao escolher a opção 1 a aplicação deve acessar e listar o histórico do sal�
 Ao escolher a opção 2 a aplicação deve acessar e listar o histórico da inflação entre 2010 e 2020. Os dados da inflação também devem estar no código da aplicação.
 Ao escolher a opção 3 a aplicação deve listar o histórico de 2010 a 2020 do salário mínimo e da inflação. Além disso, na opção 3 deve ser calculado o percentual de crescimento do salário mínimo. 
 
-O percentual de crescimento é calculado com base na diferença entre o salário do ano e do ano anterior, dessa forma, o percentual de crescimento só deve ser apresentado a partir de 2011.
+O percentual de crescimento é calculado com base na diferença entre o salário do ano e do ano anterior, dessa forma, o percentual de crescimento só deve ser apresentado a partir de 2011!
