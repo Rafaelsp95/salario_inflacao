@@ -1,0 +1,24 @@
+{
+  "name": "salario_inflacao",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "salario_inflacao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafaelsp95/salario_inflacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafaelsp95/salario_inflacao/issues"
+  },
+  "homepage": "https://github.com/Rafaelsp95/salario_inflacao#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
