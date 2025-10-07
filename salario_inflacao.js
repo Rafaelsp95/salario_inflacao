@@ -29,7 +29,7 @@ const inflacao_ipca = [  // array de inflação
 ];
 
 /*
-Variável que será exclusivamente utilizada par escolher a opção do usuário.
+Variável que será exclusivamente utilizada para escolher a opção do usuário.
 Valor inicial -1 diferente de 0 pra entrar no loop!
 */ 
 let escolha = -1;
